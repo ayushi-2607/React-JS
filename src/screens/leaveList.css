@@ -1,0 +1,82 @@
+#headerCard{
+    background: linear-gradient(to bottom, #6b82ec 96%, #764ba2 10%)!important;
+}
+.fa-lg{
+    color: white;
+}
+
+#searchIcon {
+    display: inline-block;
+    color: #D1D5D5;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+    .modal-body {
+        font-weight: bold!important;
+        line-height: 0.5rem;
+
+}
+#selectLeaveType{
+    height: 35px;
+    /* width: 211px; */
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+
+}
+#loadingGif{
+    margin-left: 480px;
+    margin-top: 100px;
+}
+#pensil{
+    cursor: pointer;
+}
+#datePicker {
+     height: 38px;
+    width: 211px;
+    border-radius: 4px;
+    border: 1px solid #ced4da;
+}
+#editLeaveId{
+    cursor: pointer; 
+}
+#addBtn{
+    background-color:  #7356B1!important;
+    cursor: pointer;
+}
+/* .btn
+{
+    color: #4A4B4C!important;
+} */
+#leaveRow{
+    
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        margin-right: -2px;
+        margin-top: 88px;
+        margin-left: 321px;
+   
+}
+
+/* .page-header {
+	height: 55px !important;
+} */
+.element.style {
+    height: 62px !important;
+}
+
+.row {
+
+    /* min-height: 15px; */
+    margin-top: 30px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 0px;
+    margin-left: 226px;
+}

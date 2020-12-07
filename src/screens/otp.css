@@ -1,0 +1,17 @@
+#accountWrapper
+{
+    opacity: 1!important;
+}
+#mainWrapper
+{
+    background-image: url('../assets/img/login.gif');
+     /* background-position: center; */
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 100%;
+
+}
+#resendLink
+{
+    cursor: pointer;
+}

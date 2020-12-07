@@ -1,0 +1,7 @@
+#addbtn {
+    cursor: pointer;
+    color: white!important;
+}
+#tableRow{
+    background: linear-gradient(to right, #667eea 0%, #764ba2 100%)!important;
+}

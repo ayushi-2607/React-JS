@@ -1,0 +1,48 @@
+i
+{
+    color: white;  
+}
+.badge
+{
+  border-radius: 1.25rem;
+}
+#badge1
+{
+  margin-top: -40px;
+  margin-left: 10px;
+}
+#search
+{
+  opacity: 0.2;
+
+}
+input.empty {
+  font-family: FontAwesome;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+}
+nav
+{
+  height: 51px;
+}
+#english,#admin
+{
+  color: white; 
+}
+.navbar-brand 
+{
+  color: white; 
+}
+  nav a:hover
+  {
+    color: white;
+    text-decoration: none;
+  } 
+ nav{ 
+       background-color:#7059B7; 
+       background-image: linear-gradient(to right, #6877E1,#6D67CA, #6F61C1,#705CBA,#5E3D83); 
+ } 
+ li{
+   list-style-type: none;
+ }

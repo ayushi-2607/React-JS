@@ -1,0 +1,90 @@
+#display{
+ display: none;
+}
+.cal-icon:after {
+        margin-top: 1%!important;
+        margin-right: 17%!important;
+        color: #979797;
+        content: "\f073";
+        display: block;
+        font-family: "FontAwesome";
+        font-size: 15px;
+        margin: auto;
+        position: absolute;
+        right: 12px;
+        top: 12px;
+    }
+    #iconLogo{
+        color: white;
+    }
+    #userValid{
+        color: red;
+    }
+    .m-t-0 {
+        margin-top: -27px !important;
+    }
+ .fileContainer {
+        background: #fff;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+#profileSearch{
+    display: inline-block;
+    color: #D1D5D5;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+#datepicker {
+    width: 180px;
+}
+#datepicker4 {
+    width: 340px;
+}
+#inputValid
+{
+    color: red;
+    font-weight: normal;
+}
+.text,.label,.title,.text-blue,.text-muted,.staff-id,.small,.table-responsive,th ,.timeline-content,.modal-title
+{   font-size: 15px;
+    font-weight: bold!important;
+    font-family: 'CircularStd', sans-serif;
+}
+.modal-body
+{
+    font-weight: bold!important;   
+}
+
+.card-title{
+    font-weight: 600!important;
+    font-family: 'CircularStd', sans-serif;
+}
+.user-name{
+    font-weight: 500;
+    font-family: 'CircularStd', sans-serif;
+}
+#editBtn{
+    cursor: pointer!important;
+    color: white!important;
+}
+#uploadBtn{
+    cursor: pointer;
+}
+input[type="file"] {
+    height: unset;
+    cursor: pointer;
+    /* background-color: blanchedalmond; */
+}
+#addMore{
+    cursor: pointer;
+}
+#datepicker2
+{
+    width: 201%;
+}

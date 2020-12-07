@@ -1,0 +1,29 @@
+.statistics .row > div {
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: -10px;
+    padding-top: -57px;
+}
+.btn-secondary {
+    margin-left: 41px;
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+#tableRow{
+    background: linear-gradient(to right, #667eea 0%, #764ba2 100%)!important;
+}
+#selectAttendance {
+    width: 225px!important;
+    height: 50px!important;
+
+}
+#progressBar{
+    width: 31%
+}
+#progressBar2{
+    width: 51%
+}
+#progressBar3{
+    width: 71%
+}
